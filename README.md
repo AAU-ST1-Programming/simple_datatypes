@@ -1,21 +1,33 @@
-# {{REPO_NAME}}
+# Simple Datatypes
 
-- **PowerPoint slideshow**: `{{REPO_NAME}}.pptx`
-- **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
-- **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
+- **PowerPoint slideshow**: `simple_datatypes.pptx`
+- **Spørgsmål:** – `questions.docx` Indeholder spørgsmål som i får i forbindelsen med forlæsningen.
+- **Lecture specific files:** - `files/` En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.
 ---
 
 ## ​ Usage
 
 To use this template:
 
-1. Click **Use this template** on GitHub to create a new repo.
 2. Clone it locally:
    ```bash
-   git clone https://github.com/you/{{REPO_NAME}}.git
-   cd {{REPO_NAME}}
+   git clone https://github.com/AAU-ST1-Programming/simple_datatypes.git
+   cd simple_datatypes
 
 ## Forberedelse
+
+**Læs:**
+- [The C Programming Language](https://github.com/AAU-ST1-Programming/introduktion/blob/main/files/The%20C%20Programming%20Language.pdf)
+  - Sec2.2
+- [Data Types](https://www.tutorialspoint.com/cprogramming/c_data_types.htm)
+- [Variables](https://www.tutorialspoint.com/cprogramming/c_variables.htm)
+
+**Videoer:**
+- [Datatypes in C](https://www.youtube.com/watch?v=HzNmyCPmJvU)
+- [Unicode](https://www.youtube.com/watch?v=-n2nlPHEMG8&feature=youtu.be)
+- [Storage Classes and Scope](https://www.youtube.com/watch?v=sBRWzrcPO_E)
+- [Videos for Functions](https://panopto.aau.dk/Panopto/Pages/Sessions/List.aspx?folderID=2a6074cd-33e3-4f46-be03-b2db008cef58)
+
 
 Til hver lektion skal man forvente følgende:
 
