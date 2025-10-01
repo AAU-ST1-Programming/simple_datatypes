@@ -3,7 +3,8 @@
 #include <limits.h>
 #include <float.h>
 
-int main() {
+int main()
+{
 
     printf("CHAR_BIT    :   %d\n", CHAR_BIT);
     printf("CHAR_MAX    :   %d\n", CHAR_MAX);
@@ -17,9 +18,9 @@ int main() {
     printf("LONG_MAX    :   %ld\n", LONG_MAX);
     printf("LONG_MIN    :   %ld\n", LONG_MIN);
     printf("ULONG_MAX   :   %lu\n", ULONG_MAX);
-    printf("LLONG_MIN   :   %lld\n",LLONG_MIN);
-    printf("LLONG_MAX   :   %lld\n",LLONG_MAX);
-    printf("ULLONG_MAX  :   %llu\n",ULLONG_MAX);
+    printf("LLONG_MIN   :   %lld\n", LLONG_MIN);
+    printf("LLONG_MAX   :   %lld\n", LLONG_MAX);
+    printf("ULLONG_MAX  :   %llu\n", ULLONG_MAX);
     printf("SHRT_MAX    :   %d\n", SHRT_MAX);
     printf("SHRT_MIN    :   %d\n", SHRT_MIN);
     printf("USHRT_MAX   :   %d\n", USHRT_MAX);
