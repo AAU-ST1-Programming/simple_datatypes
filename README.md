@@ -24,7 +24,7 @@ To use this template:
 
 **Videoer:**
 - [Datatypes in C](https://www.youtube.com/watch?v=HzNmyCPmJvU)
-- [Unicode](https://www.youtube.com/watch?v=-n2nlPHEMG8&feature=youtu.be)
+- [UTF-8 Explained Simply](https://www.youtube.com/watch?v=vpSkBV5vydg)
 - [Storage Classes and Scope](https://www.youtube.com/watch?v=sBRWzrcPO_E)
 - [Videos for Functions](https://panopto.aau.dk/Panopto/Pages/Sessions/List.aspx?folderID=2a6074cd-33e3-4f46-be03-b2db008cef58)
 
