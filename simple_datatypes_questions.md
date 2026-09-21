@@ -88,8 +88,8 @@ Martin har fået en ESP32 til at kommunikere med nogle mystiske tegn. Han har in
 1. Open and run the program `files/esp32_unicode/esp32_unicode.ino` on your ESP32
 2. Observe the output in the Serial Monitor
 3. For each string output, use Google Translate to identify:
-   a. The language
-   b. The translation to Danish
+    - a. The language
+    - b. The translation to Danish
 4. Write down the results
 
 5. **PBL:** Martin asks: *"Why do some characters take more bytes than others? What's the difference between ASCII and Unicode?"*
@@ -210,8 +210,8 @@ Martin har hørt, at computeren forstår binære tal, men han forstår ikke, hvo
 3. Declare an integer `tal = 10`
 4. Create an unsigned integer `mask = 1 << (sizeof(int) * 8 - 1)`
 5. For each bit in `tal` (loop with iterator `i`):
-   a. Test if `tal & mask` evaluates to true, print "1", else print "0"
-   b. Right-shift the mask: `mask = mask >> 1`
+    - a. Test if `tal & mask` evaluates to true, print "1", else print "0"
+    - b. Right-shift the mask: `mask = mask >> 1`
 6. Loop over integers from -15 to 15 and print their binary representation
 
 7. **PBL:** Martin asks: *"Can you modify the program to also show the hexadecimal representation alongside the binary?"*
