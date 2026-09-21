@@ -39,6 +39,8 @@ Martin har fundet en gammel computer fra 1980'erne, der kun kan tælle til 7. Ha
 **Short Humorous Scenario:**
 Martin har modtaget en mystisk besked med hexadecimale tal: 0x55, 0x21, 0x33. Han har ingen anelse om, hvad de betyder. *"Kan I ikke finde ud af, hvilke tegn disse tal repræsenterer?"* han spørger desperat.
 
+![files/ASCII.gif](files/ASCII.gif)
+
 **What they currently know:**
 - ASCII character encoding
 - Hexadecimal notation (0x prefix)
