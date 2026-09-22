@@ -3,6 +3,7 @@
 *.exe
 *.out
 
+tasks.json
 # Compiled Object files
 *.slo
 *.lo
